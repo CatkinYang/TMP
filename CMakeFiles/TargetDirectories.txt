@@ -1,0 +1,5 @@
+/Users/catkin/Study/DFX/TMP/CMakeFiles/TMP.dir
+/Users/catkin/Study/DFX/TMP/CMakeFiles/test_task.dir
+/Users/catkin/Study/DFX/TMP/CMakeFiles/test_fpga.dir
+/Users/catkin/Study/DFX/TMP/CMakeFiles/edit_cache.dir
+/Users/catkin/Study/DFX/TMP/CMakeFiles/rebuild_cache.dir
